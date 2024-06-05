@@ -1,0 +1,4 @@
+sym = 0
+while sum < 5:
+    sym +=1
+print(sym)
